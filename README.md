@@ -2,4 +2,5 @@ This work is licensed under the Creative Commons Attribution 4.0 International L
 
 # GeneratedTextDetection
 If you use the code repository or the dataset, please cite the paper:
+"A Benchmark Corpus for the Detection of Automatically Generated Text in Academic Publications"
 
